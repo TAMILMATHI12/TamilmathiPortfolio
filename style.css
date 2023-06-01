@@ -386,9 +386,10 @@ section .title::after{
 .skills-content .right .mysql::before{
     width: 50%;
 }
+/*
 .skills-content .right .MongoDB::before{
     width: 40%;
-}
+}  */
 
 /* teams section styling */
 .Projects .title::after{
